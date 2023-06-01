@@ -1,0 +1,57 @@
+.player1{
+    width: 120px;
+    position: absolute;
+    left: 550px;
+    top: 500px;
+}
+.player2{
+    width: 120px;
+    position: absolute;
+    left: 1200px;
+    top: 600px;
+}
+.vkhod1{
+    position: absolute;
+    left: 950px;
+    top: 400px;
+}
+.vkhod2{
+    position: absolute;
+    left: 1300px;
+    top: 700px;
+}
+.vkhod3{
+    position: absolute;
+    top: 550px;
+    left: 370px;
+}
+.img1{
+    width: 100px;
+} 
+.img2{
+    width: 100px;
+}
+.img3{
+    width: 80px;
+}
+.win{
+    width: 700px;
+    margin-left: 610px;
+}
+
+.choice-player-1Loc2, .choice-player-2Loc2{
+    height: 200px;
+    width: 200px;
+    background-color: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+.radius1{
+    border-radius: 50px 0 0 50px;
+}
+.radius2{
+    border-radius: 0 50px 50px 0;
+}
+
+
+
